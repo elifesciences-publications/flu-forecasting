@@ -109,3 +109,10 @@ The only inputs currently are the configuration file, `config.json`, and the dat
 |:---:|:---:|
 | results/distance_model_errors.tsv | table of model errors per build, timepoint, and model |
 | results/distance_model_coefficients.tsv | table of model coefficients per build, timepoint, and model |
+
+### Cleaning output for subsequent builds
+
+In order to clear output files to be rebuilt in subsequent builds, run the `clean_forecasting_output.py` script. An example of this is
+```bash
+python scripts/clean_foreasting_output.py "natural_sample_1_with_90_vpm_sliding""
+```
