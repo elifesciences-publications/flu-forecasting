@@ -1,3 +1,7 @@
+This code is associated with the paper from  Huddleston et al., "Integrating genotypes and phenotypes
+improves long-term forecasts of seasonal
+influenza A/H3N2 evolution". eLife, 2020. http://doi.org/10.7554/eLife.60067
+
 # Integrating genotypes and phenotypes improves long-term forecasts of seasonal influenza A/H3N2 evolution
 
 **John Huddleston<sup>1,2</sup>, John R. Barnes<sup>3</sup>, Thomas Rowe<sup>3</sup>, Xiyan Xu<sup>3</sup>, Rebecca Kondor<sup>3</sup>, David E. Wentworth<sup>3</sup>, Lynne Whittaker<sup>4</sup>, Burcu Ermetal<sup>4</sup>, Rodney S. Daniels<sup>4</sup>, John W. McCauley<sup>4</sup>, Seiichiro Fujisaki<sup>5</sup>, Kazuya Nakamura<sup>5</sup>, Noriko Kishida<sup>5</sup>, Shinji Watanabe<sup>5</sup>, Hideki Hasegawa<sup>5</sup>, Ian Barr<sup>6</sup>, Kanta Subbarao<sup>6</sup>, Pierre Barrat-Charlaix<sup>7,8</sup>, Richard A. Neher<sup>7,8</sup> & Trevor Bedford<sup>1</sup>**
